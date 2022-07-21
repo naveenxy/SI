@@ -1,0 +1,15 @@
+D:\OOPS\Simple interest calculator\Simple interest calculator\bin\Debug\net6.0\Simple interest calculator.exe
+D:\OOPS\Simple interest calculator\Simple interest calculator\bin\Debug\net6.0\Simple interest calculator.deps.json
+D:\OOPS\Simple interest calculator\Simple interest calculator\bin\Debug\net6.0\Simple interest calculator.runtimeconfig.json
+D:\OOPS\Simple interest calculator\Simple interest calculator\bin\Debug\net6.0\Simple interest calculator.dll
+D:\OOPS\Simple interest calculator\Simple interest calculator\bin\Debug\net6.0\Simple interest calculator.pdb
+D:\OOPS\Simple interest calculator\Simple interest calculator\obj\Debug\net6.0\Simple interest calculator.csproj.AssemblyReference.cache
+D:\OOPS\Simple interest calculator\Simple interest calculator\obj\Debug\net6.0\Simple interest calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOPS\Simple interest calculator\Simple interest calculator\obj\Debug\net6.0\Simple interest calculator.AssemblyInfoInputs.cache
+D:\OOPS\Simple interest calculator\Simple interest calculator\obj\Debug\net6.0\Simple interest calculator.AssemblyInfo.cs
+D:\OOPS\Simple interest calculator\Simple interest calculator\obj\Debug\net6.0\Simple interest calculator.csproj.CoreCompileInputs.cache
+D:\OOPS\Simple interest calculator\Simple interest calculator\obj\Debug\net6.0\Simple interest calculator.dll
+D:\OOPS\Simple interest calculator\Simple interest calculator\obj\Debug\net6.0\refint\Simple interest calculator.dll
+D:\OOPS\Simple interest calculator\Simple interest calculator\obj\Debug\net6.0\Simple interest calculator.pdb
+D:\OOPS\Simple interest calculator\Simple interest calculator\obj\Debug\net6.0\Simple interest calculator.genruntimeconfig.cache
+D:\OOPS\Simple interest calculator\Simple interest calculator\obj\Debug\net6.0\ref\Simple interest calculator.dll
